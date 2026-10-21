@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+<title id="title">Average investment rounds by fund activity</title><desc id="desc">Rounded averages: low activity 2, middle activity 51, high activity 252.</desc>
+<rect width="1100" height="620" fill="#ffffff" rx="20"/>
+<text x="70" y="62" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#172033">Average Investment Rounds by Fund Activity</text>
+<text x="70" y="98" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#596579">Rounded averages from the educational practice dataset</text>
+<line x1="300" y1="145" x2="300" y2="465" stroke="#9aa4b2" stroke-width="2"/><line x1="300" y1="465" x2="970" y2="465" stroke="#9aa4b2" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#596579">
+<line x1="300" y1="465" x2="300" y2="155" stroke="#e3e7ee"/><text x="300" y="493" text-anchor="middle">0</text>
+<line x1="430" y1="465" x2="430" y2="155" stroke="#e3e7ee"/><text x="430" y="493" text-anchor="middle">50</text>
+<line x1="560" y1="465" x2="560" y2="155" stroke="#e3e7ee"/><text x="560" y="493" text-anchor="middle">100</text>
+<line x1="690" y1="465" x2="690" y2="155" stroke="#e3e7ee"/><text x="690" y="493" text-anchor="middle">150</text>
+<line x1="820" y1="465" x2="820" y2="155" stroke="#e3e7ee"/><text x="820" y="493" text-anchor="middle">200</text>
+<line x1="950" y1="465" x2="950" y2="155" stroke="#e3e7ee"/><text x="950" y="493" text-anchor="middle">250</text></g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#172033"><text x="275" y="210" text-anchor="end">Low activity</text><text x="275" y="310" text-anchor="end">Middle activity</text><text x="275" y="410" text-anchor="end">High activity</text></g>
+<rect x="300" y="175" width="5.2" height="48" rx="3" fill="#5b7cba"/><rect x="300" y="275" width="132.6" height="48" rx="5" fill="#5b7cba"/><rect x="300" y="375" width="655.2" height="48" rx="5" fill="#5b7cba"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#172033"><text x="320" y="206">2</text><text x="445" y="306">51</text><text x="967" y="406">252</text></g>
+<text x="635" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#596579">Rounded average investment rounds</text>
+<rect x="70" y="560" width="960" height="38" rx="8" fill="#f2f5fa"/><text x="86" y="584" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#465268">Descriptive comparison only. Activity groups are defined by invested-company counts; this chart does not show causation.</text></svg>
