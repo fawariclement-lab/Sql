@@ -8,6 +8,12 @@ The queries demonstrate filtering, sorting, aggregation, grouping, conditional l
 
 > **Project context:** Educational analysis using a provided practice database. Results describe this dataset and should not be interpreted as current market statistics.
 
+## Visual summary
+
+![Average investment rounds by fund activity](charts/average_investment_rounds_by_activity.svg)
+
+See the [chart source](charts/average_investment_rounds_by_activity.svg) and [analysis results](ANALYSIS_RESULTS.md) for interpretation and limitations.
+
 ## Key findings
 
 Selected result values from the completed exercises are documented in [Analysis Results and Key Findings](ANALYSIS_RESULTS.md):
