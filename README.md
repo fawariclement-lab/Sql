@@ -8,6 +8,16 @@ The queries demonstrate filtering, sorting, aggregation, grouping, conditional l
 
 > **Project context:** Educational analysis using a provided practice database. Results describe this dataset and should not be interpreted as current market statistics.
 
+## Key findings
+
+Selected result values from the completed exercises are documented in [Analysis Results and Key Findings](ANALYSIS_RESULTS.md):
+
+- **2,584** companies were marked as closed in the dataset.
+- Rounded average investment-round values were **2** for low-activity funds, **51** for middle-activity funds, and **252** for high-activity funds.
+- The selected education-record analysis returned an average of approximately **1.23113** recorded degree entries per person.
+
+These are descriptive results from the practice database, not evidence of causation or current market conditions.
+
 ## Questions explored
 
 1. **Startup landscape:** Count companies marked as closed.
@@ -25,6 +35,7 @@ The queries demonstrate filtering, sorting, aggregation, grouping, conditional l
 
 - `sql/` — ten queries organized by analysis question.
 - `schema/database_schema.md` — notes on the tables and relationships shown in the project ERD.
+- `ANALYSIS_RESULTS.md` — selected results, interpretations, and limitations.
 
 ## SQL concepts demonstrated
 
