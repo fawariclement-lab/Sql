@@ -6,7 +6,7 @@ This project explores a venture-capital and startup database to answer questions
 
 The queries demonstrate filtering, sorting, aggregation, grouping, conditional logic with `CASE`, pattern matching with `LIKE`, joins, and nested subqueries.
 
-> **Project context:** Educational analysis using a provided practice database. Results describe this dataset and should not be interpreted as current market statistics.
+> **Project context:** An analysis of a venture-capital and startup dataset covering funding, closures, acquisitions, and fund activity. Figures describe this dataset and are not current market statistics.
 
 ## Visual summary
 
@@ -24,7 +24,7 @@ See the [chart source](charts/average_investment_rounds_by_activity.svg) and [an
 - Rounded average investment-round values were **2** for low-activity funds, **51** for middle-activity funds, and **252** for high-activity funds.
 - The selected education-record analysis returned an average of approximately **1.23113** recorded degree entries per person.
 
-All values above are descriptive outputs from the practice database. See [Analysis Results and Key Findings](ANALYSIS_RESULTS.md) for context and caveats, including the distinction between a highest individual-company funding value and a sector-wide total.
+All values above are descriptive outputs from the dataset. See [Analysis Results and Key Findings](ANALYSIS_RESULTS.md) for context and caveats, including the distinction between a highest individual-company funding value and a sector-wide total.
 
 ## Questions explored
 
@@ -56,10 +56,10 @@ All values above are descriptive outputs from the practice database. See [Analys
 
 ## Interpretation notes
 
-- These scripts preserve the original exercise logic and field names from the provided database.
+- These scripts use the dataset’s original field names and structure.
 - Results can vary if the underlying database changes.
 - Query 10 measures recorded education entries per person in the selected subset; it does not establish that education causes startup success.
-- Monetary interpretations assume the source values are denominated in U.S. dollars, consistent with the exercise descriptions.
+- Monetary interpretations assume the source values are denominated in U.S. dollars, consistent with the dataset documentation.
 - Run these scripts against the matching project database/schema. They do not create the source tables.
 
 ## Author
