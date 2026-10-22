@@ -1,6 +1,6 @@
 # Analysis Results and Key Findings
 
-This page documents results visible in the completed SQL learning exercises. They come from the supplied educational database and are not current startup-market statistics.
+This page documents the results of the SQL analysis. They come from the venture-capital dataset analyzed in this project and are not current startup-market statistics.
 
 ## 1. Startup landscape: closed companies
 
@@ -123,7 +123,7 @@ The exercise grouped funds by activity category and rounded the average `investm
 
 ## Methods and limitations
 
-- The results describe the supplied practice database, not current market conditions.
+- The results describe the dataset analyzed in this project, not current market conditions.
 - A query result reflects the rows selected by its filters; it does not by itself establish causation.
 - Aggregations may be affected by missing values, duplicate relationships, inconsistent country codes, and how the source defines each field.
 - The funding and acquisition amounts are reported in the database's numeric units; dollar interpretations assume the source values are denominated in U.S. dollars, as described by the exercise.
